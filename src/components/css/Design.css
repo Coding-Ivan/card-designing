@@ -1,0 +1,37 @@
+.card{
+background-color: blue;
+height: fit-content;
+width: 50%;
+border: 4px  ;
+border-radius: 5px;
+border-color: green;
+box-shadow: 4px 4px red;
+margin: 2rem auto;
+padding: 2rem 2rem;
+text-align: center;
+align-content: center;
+
+}
+.name{
+color: whitesmoke;
+
+}
+.title{
+color: whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+
+}
+.cont{
+    width:fit-content;
+}
+.desText{
+color: whitesmoke;
+/* font-family: 'Times New Roman', Times, serif; */
+/* font-weight: bold; */
+font-style: italic;
+}
+/* .pic{
+    background: url('../../images/profile.jpg') no-repeat  center center; 
+
+} */

@@ -1,0 +1,17 @@
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+footer{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.hr{
+    height: 2px;
+    background-color: blueviolet;
+}
+footer{
+    color: green;
+}
